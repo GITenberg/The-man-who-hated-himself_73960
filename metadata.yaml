@@ -8,6 +8,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '56241'
     url: http://www.gutenberg.org/2009/agents/56241
+covers:
+- cover_type: archival
+  image_path: 73960-h/images/cover.jpg
 creator:
   author:
     agent_name: Coburn, Walt
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53037
     wikipedia: https://en.wikipedia.org/wiki/Walt_Coburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73960#The-man-who-hated-himself
 gutenberg_issued: '2024-07-04'
 gutenberg_type: Text
 identifiers:
